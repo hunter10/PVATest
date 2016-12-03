@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PVATest2", "PVATest2.csproj", "{2BF44A4D-90ED-B5DB-8077-0D2A0E192511}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BF44A4D-90ED-B5DB-8077-0D2A0E192511}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BF44A4D-90ED-B5DB-8077-0D2A0E192511}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BF44A4D-90ED-B5DB-8077-0D2A0E192511}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BF44A4D-90ED-B5DB-8077-0D2A0E192511}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
