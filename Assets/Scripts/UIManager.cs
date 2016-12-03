@@ -207,6 +207,11 @@ public class UIManager : MonoBehaviour
         PVA_startDetect(hWnd, g_uDetectNotify);
 
         PVA_init();
+
+
+
+
+
     }
 
     /// <summary>
